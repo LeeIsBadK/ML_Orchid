@@ -1,4 +1,4 @@
-# Model machine learning ในการจำแนกพันธุ์กล้วยไม้ป่าช้างกระ (*Rhynchostylis gigantea*) กับกล้วยไม้หวาย (*Dendrobium*)
+# Model machine learning ในการจำแนกพันธุ์กล้วยไม้ *Rhynchostylis gigantea* กับ *Dendrobium*
 ผู้จัดทำ นาย กิตติพัฒน์ ลี้สมบัติวัฒนะ <br>
 โรงเรียนมัญจาศึกษา <br>
 
